@@ -8,7 +8,7 @@
         "save restricted",
         "bot"
     ],
-    "repository": "https://github.com/ymwd/anktsavecont.2",
+    "repository": "https://github.com/kavi9689/anktsavecont.2",
     "website": "",
     "success_url": "https://t.me/url_uploader_A",
     "env": {
